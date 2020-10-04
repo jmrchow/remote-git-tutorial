@@ -1,1 +1,3 @@
-Hello, World
+Hello, World.
+
+Hello, Jeremy. I made this change on GitHub
